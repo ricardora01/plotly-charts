@@ -1,0 +1,27 @@
+{
+  "title": "Average Scores by Subject and Semester",
+  "subtitle": "Academic performance across five semesters",
+  "x_label": "Semester",
+  "y_label": "Subject",
+  "x_values": [
+    "Semester 1",
+    "Semester 2",
+    "Semester 3",
+    "Semester 4",
+    "Semester 5"
+  ],
+  "y_values": [
+    "Programming",
+    "Databases",
+    "Mathematics",
+    "Networks",
+    "Software Engineering"
+  ],
+  "values": [
+    [72, 76, 81, 84, 88],
+    [68, 73, 78, 82, 86],
+    [75, 77, 79, 83, 85],
+    [65, 70, 74, 79, 83],
+    [70, 74, 80, 85, 89]
+  ]
+}

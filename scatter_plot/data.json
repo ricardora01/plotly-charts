@@ -1,0 +1,26 @@
+{
+  "title": "Study Hours vs. Exam Score",
+  "subtitle": "Example relationship between study time and academic performance",
+  "x_label": "Study hours",
+  "y_label": "Exam score",
+  "data": [
+    {"student": "Student 01", "hours": 1.0, "score": 55},
+    {"student": "Student 02", "hours": 1.5, "score": 58},
+    {"student": "Student 03", "hours": 2.0, "score": 60},
+    {"student": "Student 04", "hours": 2.5, "score": 64},
+    {"student": "Student 05", "hours": 3.0, "score": 67},
+    {"student": "Student 06", "hours": 3.5, "score": 65},
+    {"student": "Student 07", "hours": 4.0, "score": 72},
+    {"student": "Student 08", "hours": 4.5, "score": 74},
+    {"student": "Student 09", "hours": 5.0, "score": 76},
+    {"student": "Student 10", "hours": 5.5, "score": 73},
+    {"student": "Student 11", "hours": 6.0, "score": 81},
+    {"student": "Student 12", "hours": 6.5, "score": 84},
+    {"student": "Student 13", "hours": 7.0, "score": 82},
+    {"student": "Student 14", "hours": 7.5, "score": 88},
+    {"student": "Student 15", "hours": 8.0, "score": 91},
+    {"student": "Student 16", "hours": 8.5, "score": 89},
+    {"student": "Student 17", "hours": 9.0, "score": 94},
+    {"student": "Student 18", "hours": 9.5, "score": 96}
+  ]
+}

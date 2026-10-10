@@ -1,0 +1,28 @@
+{
+  "title": "Student Enrollment by Program",
+  "subtitle": "Example enrollment data for 2026",
+  "x_label": "Academic program",
+  "y_label": "Students",
+  "data": [
+    {
+      "program": "Computer Systems",
+      "students": 185
+    },
+    {
+      "program": "Industrial Engineering",
+      "students": 240
+    },
+    {
+      "program": "Electronics",
+      "students": 125
+    },
+    {
+      "program": "Business Management",
+      "students": 210
+    },
+    {
+      "program": "Mechanical Engineering",
+      "students": 165
+    }
+  ]
+}

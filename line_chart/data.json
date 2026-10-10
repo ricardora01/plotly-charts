@@ -1,0 +1,20 @@
+{
+  "title": "Monthly Website Traffic",
+  "subtitle": "Number of visits during 2026",
+  "x_label": "Month",
+  "y_label": "Visits",
+  "data": [
+    {"month": "2026-01", "visits": 1250},
+    {"month": "2026-02", "visits": 1380},
+    {"month": "2026-03", "visits": 1420},
+    {"month": "2026-04", "visits": 1350},
+    {"month": "2026-05", "visits": 1580},
+    {"month": "2026-06", "visits": 1720},
+    {"month": "2026-07", "visits": 1680},
+    {"month": "2026-08", "visits": 1850},
+    {"month": "2026-09", "visits": 2010},
+    {"month": "2026-10", "visits": 2150},
+    {"month": "2026-11", "visits": 2280},
+    {"month": "2026-12", "visits": 2420}
+  ]
+}
